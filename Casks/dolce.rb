@@ -18,9 +18,7 @@ cask "dolce" do
   app "Dolce.app"
 
   zap trash: [
-    "~/Library/Application Support/com.begbie.dolce",
-    "~/Library/Caches/com.begbie.dolce",
+    "~/Library/Application Scripts/com.begbie.dolce",
     "~/Library/Containers/com.begbie.dolce",
-    "~/Library/Preferences/com.begbie.dolce.plist",
   ]
 end

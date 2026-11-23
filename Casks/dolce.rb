@@ -1,6 +1,6 @@
 cask "dolce" do
-  version "0.4.0"
-  sha256 "bd0cbece19f0274655603959397f4c7e458cd2687163c743320431512b349fde"
+  version "0.4.1"
+  sha256 "8d997dee49d2e989077f200694b23868f0c428314a5cee4fad7babcae186233f"
 
   url "https://cf-bucket.begbie.com/dolce/Dolce-v#{version}.dmg"
   name "Dolce"
